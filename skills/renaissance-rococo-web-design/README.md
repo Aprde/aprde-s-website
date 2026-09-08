@@ -10,7 +10,7 @@ An original Codex skill for designing desktop-first editorial websites that comb
 
 The skill is intended for personal archives, artist portfolios, cultural publications, essays, galleries, and other content-led experiences. It explicitly guards against the common failure mode where a spectacular hero collapses into a generic inner page.
 
-![Desktop article transition example](examples/desktop-article-transition.jpg)
+![Desktop article transition example](examples/desktop-article-transition.svg)
 
 The example is a static concept frame. It demonstrates a pictorial entrance handing off to a stable article surface; it does not prove animation or browser compatibility.
 
@@ -44,7 +44,7 @@ Use $renaissance-rococo-web-design to design the entrance-to-article transition 
 SKILL.md
 agents/openai.yaml
 references/
-examples/desktop-article-transition.jpg
+examples/desktop-article-transition.svg
 LICENSE
 ```
 
@@ -57,3 +57,4 @@ The repository contains original instructions and one AI-generated concept image
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
