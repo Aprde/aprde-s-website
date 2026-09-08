@@ -16,7 +16,7 @@ The example is a static concept frame. It demonstrates a pictorial entrance hand
 
 ## Install
 
-Copy this repository into your Codex skills directory, keeping `SKILL.md`, `references/`, and `agents/` together. Then invoke:
+Copy this skill folder into your Codex skills directory, keeping `SKILL.md`, `references/`, and `agents/` together. Then invoke:
 
 ```text
 $renaissance-rococo-web-design
