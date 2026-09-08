@@ -1,4 +1,0 @@
-interface:
-  display_name: "Renaissance Rococo Web Design"
-  short_description: "Design art-led websites with collage and readable motion"
-  default_prompt: "Use $renaissance-rococo-web-design to create a desktop-first editorial website direction with historical imagery, tactile material transitions, and a readable inner experience."
